@@ -1,0 +1,11 @@
+{
+    "tests": [
+        {
+            "score": 20,
+            "max_score": 20,
+            "name": "test_euclid.py::test_key_pair_encoding_decoding",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

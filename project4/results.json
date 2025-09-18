@@ -1,0 +1,11 @@
+{
+    "tests": [
+        {
+            "score": 10,
+            "max_score": 10,
+            "name": "test_alignment.py::test_massive_dna_alignment_banded",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}
